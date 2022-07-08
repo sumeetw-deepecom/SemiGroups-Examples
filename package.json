@@ -1,0 +1,15 @@
+{
+  "name": "semigroups-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "^4.1.0",
+    "jest": "^28.1.2"
+  }
+}
